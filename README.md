@@ -18,6 +18,17 @@ More information can be found here: https://www.w3.org/WAI/standards-guidelines/
 ### secure-ui
 A skill to make UI security a priority for Claude Code. Includes not logging sensitive information, validating and sanitizing input, managing local storage and other dev tools don't store sensistive info, etc. 
 
-
 ### typescript-best-practices
 Exactly what is sounds like. Makes sure generated TypeScript code compiles cleanly under ```"strict": true.```
+
+### ai-prompt-engineering
+Specific for improving prompting for an app I am working on
+
+### stripe-webhooks
+Uses best practices when integrating with Stripe (the payment platform)
+
+### supabase-rls
+Enforces row level security when interacting with Supabase to prevent security vulnerabilities
+
+### triggerdev-async
+Best practices when using triggerdev for async jobs
